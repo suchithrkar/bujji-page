@@ -11,7 +11,7 @@ behavior:"smooth"
 
 function updateLoveTimer(){
 
-const startDate = new Date("2024-11-26T00:00:00");
+const startDate = new Date("2025-01-19T00:00:00");
 
 const now = new Date();
 
@@ -83,7 +83,7 @@ setInterval(createHeart,400);
 const gallery = document.getElementById("gallery");
 
 // change number here if needed
-const totalPhotos = 80;
+const totalPhotos = 75;
 
 for(let i=1;i<=totalPhotos;i++){
 
