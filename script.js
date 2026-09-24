@@ -83,7 +83,7 @@ setInterval(createHeart,400);
 const gallery = document.getElementById("gallery");
 
 // change number here if needed
-const totalPhotos = 75;
+const totalPhotos = 76;
 
 for(let i=1;i<=totalPhotos;i++){
 
